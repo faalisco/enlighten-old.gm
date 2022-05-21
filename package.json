@@ -1,0 +1,21 @@
+{
+  "name": "enlighten.gm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "bundle exec jekyll serve --trace --livereload",
+    "lint:style": "npx stylelint \"**/*.scss\"",
+    "fix:style": "npx stylelint --fix \"**/*.scss\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faalisco/enlighten.gm.git"
+  },
+  "author": "faalisco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faalisco/enlighten.gm/issues"
+  },
+  "homepage": "https://github.com/faalisco/enlighten.gm#readme"
+}
